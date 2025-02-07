@@ -59,6 +59,8 @@
 (system_lib_string) @string
 
 (null) @constant
+(true) @constant
+(false) @constant
 (number_literal) @number
 (char_literal) @number
 
